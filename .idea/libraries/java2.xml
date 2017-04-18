@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="java2">
+    <CLASSES>
+      <root url="file://D:/Program Files (x86)/Experitest/AppiumStudio-10.4/clients/appium/java" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://D:/Program Files (x86)/Experitest/AppiumStudio-10.4/clients/appium/java" recursive="false" />
+  </library>
+</component>

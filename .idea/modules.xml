@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AS106/AS106.iml" filepath="$PROJECT_DIR$/AS106/AS106.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AS108/AS108.iml" filepath="$PROJECT_DIR$/AS108/AS108.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ASold/ASold.iml" filepath="$PROJECT_DIR$/ASold/ASold.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SeeTestAppium.iml" filepath="$PROJECT_DIR$/SeeTestAppium.iml" />
+    </modules>
+  </component>
+</project>
